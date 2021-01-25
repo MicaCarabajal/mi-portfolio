@@ -166,7 +166,7 @@ html, body {
 }
 .link-proy {
     position: relative;
-    left: 1500px;
+    left: 1415px;
     color: #ffffff;
     margin: 15px;
     transition: 0.2s;
@@ -315,7 +315,7 @@ footer{
     }
     .link-proy {
         position: relative;
-        left: 185px;
+        left: 190px;
     }
   }
   @media (min-width: 768px) and (max-width: 1200px) {
