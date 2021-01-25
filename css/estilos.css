@@ -125,7 +125,7 @@ html, body {
 .boton-cv{
     padding: 10px;
     text-align: center;
-    margin-right: 150px;
+    margin-right: 180px;
     background-color: #848ccf;
     border-radius: 20px;
     border: none;
@@ -266,7 +266,7 @@ footer{
       font-size: 20px;
     }
     .boton-cv{
-        margin-left: 100px;
+        margin: auto auto;
     }
     .swiper-containerr {
         width: 350px;
@@ -315,7 +315,7 @@ footer{
     }
     .link-proy {
         position: relative;
-        left: 150px;
+        left: 185px;
     }
   }
   @media (min-width: 768px) and (max-width: 1200px) {
